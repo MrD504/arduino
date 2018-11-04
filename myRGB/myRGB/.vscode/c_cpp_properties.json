@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/dave/Downloads/arduino-1.8.7-linux64/arduino-1.8.7/tools/**",
+                "/home/dave/Downloads/arduino-1.8.7-linux64/arduino-1.8.7/hardware/**",
+                "${workspaceFolder}/**",
+                "/home/$user/Downloads/arduino-1.8.7-linux64/arduino-1.8.7/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "forcedInclude": [
+                "/home/dave/Downloads/arduino-1.8.7-linux64/arduino-1.8.7/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ]
+        }
+    ],
+    "version": 4
+}
